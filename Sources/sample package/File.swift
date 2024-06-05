@@ -9,6 +9,6 @@ import Foundation
 
 public class instinct {
     public static func sayHello() {
-        print("Hello from InstincT!")
+        print("Hello from Skynet!")
     }
 }
