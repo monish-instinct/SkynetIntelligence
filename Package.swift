@@ -19,7 +19,7 @@ let package = Package(
         .binaryTarget(
             name: "SampleFramework",
             url: "https://github.com/monish-instinct/swift-package/releases/download/swift/SampleFramework.xcframework.zip",
-            checksum: "the-calculated-checksum"
+            checksum: "9050ae8b5fdb181ca902ad0cb46e317e002e5afed6f594550a972c2dff466810"
         )
     ]
 )
