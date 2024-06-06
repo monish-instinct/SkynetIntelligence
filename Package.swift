@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SampleFramework",
-            url: "https://github.com/monish-instinct/swift-package/releases/download/v0.0.1/SampleFramework.xcframework.zip",
+            url: "https://github.com/monish-instinct/swift-package/releases/download/swift/SampleFramework.xcframework.zip",
             checksum: "9050ae8b5fdb181ca902ad0cb46e317e002e5afed6f594550a972c2dff466810" // Ensure this is correct
         )
     ]
