@@ -10,13 +10,13 @@ let package = Package(
     products: [
         .library(
             name: "SamplePackage",
-            targets: ["TestFramework"]),
+            targets: ["SkynetIntelligence"]),
     ],
     targets: [
         .binaryTarget(
-            name: "TestFramework",
-            url: "https://github.com/monish-instinct/swift-package/releases/download/swift/TestFramework.xcframework.zip",
-            checksum: "e18ce794f12e50c4a7efeb4cc62cae7828076de03aacb346d3fe5dc763a7988d"
+            name: "SkynetIntelligence",
+            url: "https://github.com/monish-instinct/swift-package/releases/download/swift/SkynetIntelligence.xcframework.zip",
+            checksum: "a8d6a1d145324e802de214557aebc4a0b0166f05654da06cd57ddbcd689e71b2"
         )
     ]
 )
