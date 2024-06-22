@@ -2,14 +2,14 @@
 import PackageDescription
 
 let package = Package(
-    name: "SamplePackage",
+    name: "SkynetIntelligence",
     platforms: [
         .iOS(.v12), // Updated to minimum supported version
         .macOS(.v10_15),
     ],
     products: [
         .library(
-            name: "SamplePackage",
+            name: "SkynetIntelligence",
             targets: ["SkynetIntelligence"]),
     ],
     targets: [
