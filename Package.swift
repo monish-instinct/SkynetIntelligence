@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "SkynetFramework",
     platforms: [
-        .iOS(.v12), // Updated to minimum supported version
+        .iOS(.v12), 
         .macOS(.v10_15),
     ],
     products: [
